@@ -30,7 +30,7 @@ CONNECTOR_CATEGORY = ['Analytics and SIEM', 'Asset Management', 'Attack surface 
                       'Threat Detection', 'Threat Hunting and Search', 'Threat Intelligence', 'Utilities',
                       'Vulnerability and Risk Management', 'Web Application', 'Breach and Attack Simulation (BAS)',
                       'Ticket Management']
-OPERATION_CATEGORY = ["investigation", "containment", "remediation", "miscellaneous"]
+OPERATION_CATEGORY = ["investigation", "containment", "remediation", "miscellaneous", "utilities"]
 PARAMETER_CATEGORY = ["text", "textarea", "integer", "datetime", "date", "select", "multiselect", "checkbox", "password",
                       "json", "apiOperation", "email", "object", "file", "richtext", "html", "decimal", "phone", "domain",
                       "filehash", "ipv4", "ipv6", "url"]
